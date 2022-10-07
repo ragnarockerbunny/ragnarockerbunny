@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragnarockerbunny
 - 👀 I’m interested in Game Development, Web Development, any form of digital interactive experience 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me; mdstevens0612@gmail.com or on twitter as @MatthewDaveStev
 
